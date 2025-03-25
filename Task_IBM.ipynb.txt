@@ -185,7 +185,7 @@
    "source": [
     "# Exercise 11 - Author's Name\n",
     "\n",
-    "**Author:** Renato\n"
+    "**Author:** Nora\n"
    ]
   },
   {
